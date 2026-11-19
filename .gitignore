@@ -1,0 +1,6 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# 项目工具的本地数据，不属于代码
+.workbuddy/
